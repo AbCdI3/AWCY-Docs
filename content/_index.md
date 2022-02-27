@@ -1,5 +1,5 @@
 ---
-title: Welcome to the AWCY? documentation demo site
+title: Welcome to the AWCY? documentation website site
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
@@ -18,67 +18,63 @@ geekdocAnchor: false
 
 <!-- markdownlint-restore -->
 
-This demo site was made and spun by Andrea1 in acouple hours ~~while banging head on the wall~~ after work. This is purely meant as a demostration and is NOT a complete demo nor a complete demostration of this theme.
+This demo site is meant to represent a possibly open and ownerless resource for quickly and conviently accessing FAQ type info for AWCY-curious people and memebers. Spun-up and written by by Andrea1 at the moment. *This is site purely meant as a demostration and is NOT a complete demo for the conecept nor a complete demostration of this theme.*
 
-Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. 
+Here is the link to the project I am using as a base for this AWCY? docs site https://geekdocs.de/
 
-Here is the link to the project I am using as a base for this AWCY? docs idea https://geekdocs.de/
+# For overview on general topics
+{{< button size="large" relref="projects/" >}}AWCY? Projects & Designs Info{{< /button >}}
 
-<!-- {{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}} -->
+{{< button size="large" relref="community/_index.md" >}}AWCY? Community Info{{< /button >}}
 
-
-# ⬇️ Click the button below to see the rest of the site ⬇️
-➡️➡️
-{{< button size="large" relref="Community/rules/" >}}AWCY Rules{{< /button >}}
-⬅️⬅️
-
-⬆️⬆️⬆️
+{{< button size="large" relref="operations/" >}}AWCY? Operations Info{{< /button >}}
 
 
-
-## Feature overview of this website
+## Quick links to common questions page
 
 {{< columns >}}
 
-### Clean and simple design
+### AWCY? Rules
 
-Stay focused on exploring the content and don't get overwhelmed by a complex design.
+These are AWCY?'s rules that memebers agree to when they join the dev team.
 
-<--->
-
-### Light and mobile-friendly
-
-The theme is powered by less than 1 MB and looks impressive on mobile devices as well as on a regular Desktop.
+{{< button href="community/rules/" >}}AWCY? Rules{{< /button >}}
 
 <--->
 
-### Easy customization
+### AWCY? Beta Criteria
 
-The look and feel can be easily customized by CSS custom properties (variables), features can be adjusted by Hugo parameters.
+AWCY? doesn't have much criteria for starting a beta here, but we ask you get familiar with the basics.
+
+{{< button href="projects/beta-criteria/" >}}AWCY? Beta Criteria{{< /button >}}
+
+<--->
+
+### AWCY? Release Criteria
+
+Guidelines and goals to release a design through AWCY?. 
+
+{{< button href="projects/release-criteria/" >}}AWCY? Release Criteria{{< /button >}}
 
 {{< /columns >}}
 
 {{< columns >}}
 
-### Dark mode
+### AWCY? Links
 
-Powerful dark mode that detects your system preferences or can be controlled by a toggle switch.
+Links to AWCY? files and social medias. Also has links to AWCY? firearms in action and in gun news.
+
+{{< button href="community/links/" >}}AWCY? Links{{< /button >}}
+
+<--->
+
+### AWCY? Released Projects
+
+Timeline that categorizes the firearms and firearm accesories released through AWCY?.
+
+{{< button href="projects/released/" >}}AWCY? Released Projects{{< /button >}}
+
+<--->
 
 {{< /columns >}}
 
-
-<!--
-### Zero initial configuration
-
-Getting started in minutes. The theme is shipped with a default configuration and works out of the box.
-
-<--->
--->
-
-<!--
-### Handy shortcodes
-
-We included some (hopefully) useful custom shortcodes so you don't have to and can focus on writing amazing docs.
-
-<--->
--->

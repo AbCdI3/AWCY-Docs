@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "/"
 title = "AWCY? docs"
 theme = "hugo-geekdoc"
 

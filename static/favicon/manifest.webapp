@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "geekdoc",
+  "description": "Hugo theme made for documentation",
+  "icons": {
+    "60": "mstile-70x70.png",
+    "128": "mstile-150x150.png",
+    "512": "android-chrome-192x192.png"
+  },
+  "developer": {
+    "name": "Robert Kaussow",
+    "url": null
+  }
+}
